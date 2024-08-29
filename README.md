@@ -1,2 +1,1 @@
-# simple_shell
-Ayman Elkhalloufi &amp;&amp; Ayman Benchamkha
+A UNIX command interpreter
